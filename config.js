@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+youimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -26,7 +26,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "923086059043" //put your bot number here💌
 global.mods = ['923042205427'] 
 global.prems = ['']
 global.allowed = ['']
